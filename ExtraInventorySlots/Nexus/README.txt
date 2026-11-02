@@ -24,7 +24,7 @@ Thank you for your support, and happy gaming! ...... (A Paypal account is NOT re
 [size=5][b]Features[/b][/size]
 
 [list]
-[*][b]Extra rows[/b]: up to 6 more rows of 8 cells at the bottom of your inventory (2 by default).
+[*][b]Extra rows[/b]: up to 5 more rows of 8 cells at the bottom of your inventory (2 by default).
 [*][b]Works with the trader's upgrades[/b]: rows bought from the trader still count, and your extra rows are added below them.
 [*][b]The panel grows to fit[/b]: the inventory frame gets taller with the rows, and mouse, keyboard and controller all work in the new cells.
 [*][b]Safe when you change your mind[/b]: lowering the number of rows moves items out of the removed rows into free cells, and only drops them at your feet if the inventory is full.
@@ -44,7 +44,7 @@ Thank you for your support, and happy gaming! ...... (A Paypal account is NOT re
 [list]
 [*]Change settings in game (with Configuration Manager or the mod settings menu, F7) or by editing [b]MagicMike.ExtraInventorySlots.cfg[/b]. Defaults are shown in brackets.
 [*][b]General Settings[/b]: [b]Enable Plugin[/b] (on; local, needs a restart).
-[*][b]Inventory[/b]: [b]Extra Rows[/b] (2, from 0 to 6). Set by the server.
+[*][b]Inventory[/b]: [b]Extra Rows[/b] (2, from 0 to 5). Set by the server.
 [/list]
 
 

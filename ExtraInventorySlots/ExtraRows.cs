@@ -12,7 +12,7 @@ namespace ExtraInventorySlots;
 /// </summary>
 internal static class ExtraRows
 {
-	internal const int MaxExtraRows = 6;
+	internal const int MaxExtraRows = 5;
 
 	// The game clamps its own row count to 0-9 (Player.SetInventorySize)
 	private const int MaxVanillaRows = 9;
