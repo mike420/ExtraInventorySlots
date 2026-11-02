@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Local machine paths
+Environment.props
+
+# Release packages
+ExtraInventorySlots/ThunderStore/
+*.zip
+*.log
