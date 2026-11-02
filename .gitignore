@@ -12,3 +12,6 @@ Environment.props
 ExtraInventorySlots/ThunderStore/
 *.zip
 *.log
+
+# Local tool binaries
+libraries/
