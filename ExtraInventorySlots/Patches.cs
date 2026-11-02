@@ -24,6 +24,14 @@ internal static class Patches
 		height = ExtraRows.AdjustHeight(__instance, height);
 	}
 
+	// The inventory and chest panels can be dragged around
+	[HarmonyPatch(typeof(InventoryGui), nameof(InventoryGui.Awake))]
+	[HarmonyPostfix]
+	private static void InventoryGuiAwake(InventoryGui __instance)
+	{
+		DraggablePanels.Attach(__instance);
+	}
+
 	// The panel's frame follows the rows the inventory has, whatever set them
 	[HarmonyPatch(typeof(InventoryGui), nameof(InventoryGui.UpdateInventory))]
 	[HarmonyPostfix]

@@ -29,6 +29,7 @@ Thank you for your support, and happy gaming! ...... (A Paypal account is NOT re
 [*][b]The panel grows to fit[/b]: the inventory frame gets taller with the rows, and mouse, keyboard and controller all work in the new cells.
 [*][b]Safe when you change your mind[/b]: lowering the number of rows moves items out of the removed rows into free cells, and only drops them at your feet if the inventory is full.
 [*][b]Graves[/b]: everything in the extra rows goes into your grave when you die, and *Take All* gives it back.
+[*][b]Movable panels[/b]: drag the inventory panel and the chest panel by their frame to put them anywhere on screen. They open where you last left them.
 [/list]
 
 
@@ -45,6 +46,7 @@ Thank you for your support, and happy gaming! ...... (A Paypal account is NOT re
 [*]Change settings in game (with Configuration Manager or the mod settings menu, F7) or by editing [b]MagicMike.ExtraInventorySlots.cfg[/b]. Defaults are shown in brackets.
 [*][b]General Settings[/b]: [b]Enable Plugin[/b] (on; local, needs a restart).
 [*][b]Inventory[/b]: [b]Extra Rows[/b] (2, from 0 to 5). Set by the server.
+[*][b]Panels[/b]: [b]Draggable Panels[/b] (on; local). Turning it off puts both panels back where the game has them.
 [/list]
 
 

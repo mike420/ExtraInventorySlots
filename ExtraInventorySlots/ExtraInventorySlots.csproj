@@ -53,6 +53,7 @@
     <Compile Include="MainConfig.cs" />
     <Compile Include="ExtraRows.cs" />
     <Compile Include="Patches.cs" />
+    <Compile Include="DraggablePanels.cs" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="..\Shared\ModSettings\*.cs">

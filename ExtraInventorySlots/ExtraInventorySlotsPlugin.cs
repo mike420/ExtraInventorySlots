@@ -61,6 +61,15 @@ public class ExtraInventorySlotsPlugin : BaseUnityPlugin
 			UpdatePlugin();
 		};
 
+		// Turning dragging off puts the panels back where the game has them
+		MainConfig.draggablePanels.SettingChanged += (_, _) =>
+		{
+			if (!MainConfig.draggablePanels.Value)
+			{
+				DraggablePanels.ResetPositions();
+			}
+		};
+
 		Game.isModded = true;
 
 		// Reloaded with a world already running: resize the player that is already there
@@ -69,6 +78,7 @@ public class ExtraInventorySlotsPlugin : BaseUnityPlugin
 			ExtraRows.Register(Player.m_localPlayer);
 			ExtraRows.ApplyToLocalPlayer();
 		}
+		DraggablePanels.Attach(InventoryGui.instance);
 	}
 
 	private void OnDestroy()
@@ -77,6 +87,7 @@ public class ExtraInventorySlotsPlugin : BaseUnityPlugin
 		{
 			return;
 		}
+		DraggablePanels.Detach(InventoryGui.instance);
 		harmony?.UnpatchSelf();
 	}
 

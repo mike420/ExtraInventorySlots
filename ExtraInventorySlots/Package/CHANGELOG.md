@@ -7,6 +7,14 @@
 </thead>
 <tbody>
   <tr>
+    <td>1.0.1</td>
+    <td>
+    <ul>
+      <li>The inventory panel and the chest panel can be dragged by their frame, and open where you last left them (<strong>Draggable Panels</strong>, on by default).</li>
+    </ul>
+	</td>
+  </tr>
+  <tr>
     <td>1.0.0</td>
     <td>
     <ul>
