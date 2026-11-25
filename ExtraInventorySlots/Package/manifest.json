@@ -1,7 +1,7 @@
 {
   "name": "ExtraInventorySlots",
   "description": "Adds extra rows to your inventory, up to 5, on top of the game's own and any rows bought from the trader. Server-synced, and works with BetterEquipSlots.",
-  "version_number": "1.0.4",
+  "version_number": "1.0.5",
   "website_url": "https://discord.gg/mnr36G6J4x",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2360",

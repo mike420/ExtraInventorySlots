@@ -14,7 +14,7 @@ namespace ExtraInventorySlots;
 public class ExtraInventorySlotsPlugin : BaseUnityPlugin
 {
 	public const string PluginName = "ExtraInventorySlots";
-	public const string PluginVersion = "1.0.4";
+	public const string PluginVersion = "1.0.5";
 	public const string PluginAuthor = "MagicMike";
 	internal const string PluginGUID = "MagicMike.ExtraInventorySlots";
 	internal const string PluginCopy = "Copyright © MagicMike 2026";
