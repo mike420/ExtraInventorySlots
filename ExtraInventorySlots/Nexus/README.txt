@@ -1,3 +1,5 @@
+[img]https://imgup.uk/i/RlDzGrHb.png[/img]
+
 [size=6][b]Extra Inventory Slots[/b][/size]
 
 Adds extra rows to the bottom of your inventory, so you can carry more without filling up every cell. The rows are added on top of the game's own, including any you have bought from the trader.
@@ -85,18 +87,24 @@ If you downloaded from Nexus, install manually.
 [size=5][b]Plugins Created by Magic Mike[/b][/size]
 
 [list]
-[*][url=https://thunderstore.io/c/valheim/p/MagicMike/CoreWoodExtras/]Corewood Extras[/url]
-[*][url=https://thunderstore.io/c/valheim/p/MagicMike/CorewoodFortified/]Corewood Fortified[/url]
-[*][url=https://thunderstore.io/c/valheim/p/MagicMike/CorewoodAdditions/]Corewood Additions[/url]
-[*][url=https://thunderstore.io/c/valheim/p/MagicMike/MyDirtyHoe/]My Dirty Hoe[/url]
-[*][url=https://thunderstore.io/c/valheim/p/MagicMike/ChestPreview/]Chest Preview[/url]
-[*][url=https://thunderstore.io/c/valheim/p/MagicMike/YabbaDabbaDoo/]YabbaDabbaDoo[/url]
-[*][url=https://thunderstore.io/c/valheim/p/MagicMike/BetterBuildMenu/]BetterBuildMenu[/url]
-[*][url=https://thunderstore.io/c/valheim/p/MagicMike/BetterCraftMenu/]BetterCraftMenu[/url]
-[*][url=https://thunderstore.io/c/valheim/p/MagicMike/BetterEquipSlots/]BetterEquipSlots[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/AuroraBorealis]Aurora Borealis[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/BetterBuildMenu]Better Build Menu[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/BetterEquipSlots]Better Equip Slots[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/CorewoodAdditions]Corewood Additions[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/CoreWoodExtras]Corewood Extras[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/CorewoodFortified]Corewood Fortified[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/ChestPreview]Chest Preview[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/DestroyIt]Destroy It[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/EinherjarBodies]Einherjar Bodies[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/ExtraInventorySlots]Extra Inventory Slots[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/MyDirtyHoe]My Dirty Hoe[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/ValheimSkies]Valheim Skies[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/VanityWardrobe]Vanity Wardrobe[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/VillagePlebs]Village Plebs[/url]
+[*][url=https://valheim.hexium.gg/mods/MagicMike/YabbaDabbaDoo]YabbaDabbaDoo[/url]
 [/list]
 
 
 [size=5][b]Comments/Suggestions/Help[/b][/size]
 
-[url=https://www.nexusmods.com/profile/MagicMikeMods/mods?gameId=3667]Nexus[/url], [url=https://discord.gg/mnr36G6J4x]Discord[/url]
+[url=https://discord.gg/mnr36G6J4x]Discord[/url]
